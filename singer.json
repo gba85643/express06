@@ -1,0 +1,22 @@
+{
+  "singers": [
+    {
+      "singer_name": "Creepy Nut",
+      "singer_img": "https://joox-cms-image-1251316161.file.myqcloud.com/2021/09/28/74412a94-0795-452e-bc71-ea121643bfa2.jpg/300",
+      "singer_id": "1635469693",
+      "id": 1
+    },
+    {
+      "singer_name": "征國",
+      "singer_img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/a6/56/a5a6561a-f570-2fb1-5a3a-95b150c18f18/196922550928_Cover.jpg/296x296bb.webp",
+      "singer_id": "785052275",
+      "id": 2
+    },
+    {
+      "singer_name": "(G)I-DLE",
+      "singer_img": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/0c/c6/98/0cc698f1-0716-1416-8018-551be9826e2f/Job39c94242-1c9b-4140-a359-b788fc373285-150177851-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_284943736_1450037441-Time1684311185319.png/296x296bb.webp",
+      "singer_id": "1378887586",
+      "id": 3
+    }
+  ]
+}
